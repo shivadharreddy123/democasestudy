@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="36174" started-at="2022-12-09T07:57:25Z" finished-at="2022-12-09T07:58:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="36174" started-at="2022-12-09T07:57:25Z" finished-at="2022-12-09T07:58:01Z">
+      <class name="demologin.loginTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:demologin.loginTest@51c8530f]" name="beforeMethod" is-config="true" duration-ms="18198" started-at="2022-12-09T07:57:25Z" finished-at="2022-12-09T07:57:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyLogin()[pri:0, instance:demologin.loginTest@51c8530f]" name="verifyLogin" duration-ms="17945" started-at="2022-12-09T07:57:43Z" finished-at="2022-12-09T07:58:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:demologin.loginTest@51c8530f]" name="afterMethod" is-config="true" duration-ms="0" started-at="2022-12-09T07:58:01Z" finished-at="2022-12-09T07:58:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- demologin.loginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
